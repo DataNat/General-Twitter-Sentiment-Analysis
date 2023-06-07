@@ -1,4 +1,4 @@
-# Project4, Tweeter Sentiment Analysis using NLP, Machine Learning, and Deep Learning
+# Project 4, Tweeter Sentiment Analysis using NLP, Machine Learning, and Deep Learning
 
 <img width="667" alt="Screen Shot 2023-03-21 at 11 36 20 AM" src="https://user-images.githubusercontent.com/44559346/226664474-dc1d9e64-e0dd-4c07-8272-e10302de45ca.png">
 
